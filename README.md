@@ -1,6 +1,6 @@
 MineSweeper
 ===========
 
-a classic mine sweeper game with html5 canvas
+a classic mine sweeper game with html5 canvas，
 
-only support Firefox, Chrome, IE9+
+only support Firefox, Chrome, IE9+.
